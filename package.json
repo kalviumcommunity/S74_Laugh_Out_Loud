@@ -1,0 +1,19 @@
+{
+  "name": "s74_laugh_out_loud",
+  "version": "1.0.0",
+  "description": "This project allows users to log in, browse a curated list of funny quotes, and rate them based on how amusing they find them. Users can also contribute their quotes, which are reviewed before being added to the platform. A leaderboard showcases the top-rated quotes, creating a competitive and interactive experience.\r ## Key Features\r - **User Authentication:** Signup, login, and social account integration.\r - **Personalized Dashboard:** Tailored feed and “My Quotes” section.\r - **Quote Rating System:** Rate quotes on a 1–5 scale.\r - **Quote Submission:** Add quotes with admin moderation.\r - **Top Quotes Leaderboard:** Global and category-based rankings.\r - **Search and Filter:** Search and filter quotes by category or keywords.\r - **Social Sharing:** Share quotes to social media platforms.\r ## Tech Stack\r - **Frontend:** React, Tailwind CSS\r - **Backend:** Node.js, Express, MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S74_Laugh_Out_Loud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S74_Laugh_Out_Loud/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S74_Laugh_Out_Loud#readme"
+}
